@@ -7,13 +7,13 @@ This is a repository containing python scripts for data engineering tasks.
 This repository provides scripts containing data cleaning, data transformation and data loading mirroring pipeline development.
 
 ### Script Overview
-'data_cleaning.py' : This handles handling missing values, removing of duplicates.
-'data_transformation.py' : This functions for normalization and custom transformation.
-'data_loading.py' : This writes cleaned and transformed data to file formats and of course databases.
+* 'data_cleaning.py' : This handles handling missing values, removing of duplicates.
+* 'data_transformation.py' : This functions for normalization and custom transformation.
+* 'data_loading.py' : This writes cleaned and transformed data to file formats and of course databases.
 
 ### Contribution Guide
-Fork the repo
-Create a feature branch
-Commit and push your changes
-Open a pull request to develop branch
-Request review and address feedback
+* Fork the repo
+* Create a feature branch
+* Commit and push your changes
+* Open a pull request to develop branch
+* Request review and address feedback
